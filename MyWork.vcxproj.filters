@@ -18,8 +18,5 @@
     <ClCompile Include="MyWork.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\Leon9\Downloads\Roger_home_work.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
